@@ -204,7 +204,7 @@ function escalaL8(image) {
         .multiply(0.0000275)
         .add(-0.2);
 
-    return coleccion.addBands(bandas_opticas, null, true);
+    return image.addBands(bandas_opticas, null, true);
 }
 
 /*
