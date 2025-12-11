@@ -5,8 +5,6 @@ var l8 = require('users/jpperezalcantara/curso-gee:lib/landsat8');
 
     Ejemplo de clasificación no supervisada con k-means.
 
-
-
 */
 
 // Colección
